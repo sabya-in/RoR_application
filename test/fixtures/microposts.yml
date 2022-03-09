@@ -1,9 +1,9 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  content: MyText
+  content: MyText....................20
   user_id: 1
 
 two:
-  content: MyText
+  content: MyText....................21
   user_id: 1
