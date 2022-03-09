@@ -1,12 +1,10 @@
 class StaticPagesController < ApplicationController
 
   def home
-    @title = "Home"
-    @base_title = "Ruby on Rails Tutorial Sample App"
+    @page_title = "Home"
   end
 
   def help
-    @title = "Help"
-    @base_title = "Ruby on Rails Tutorial Sample App"
+    @page_title = "Help"
   end
 end
